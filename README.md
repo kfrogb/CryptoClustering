@@ -8,6 +8,7 @@ Using Code: Use Jupyter Notebook to analyze CSV data for crypto currency informa
 
 How to Use Project: Use Jupyter Notebook file to analyze CSV data.
 
+Resources: https://github.com/Asalvs/CryptoClustering/blob/main/Crypto_Clustering_starter_code.ipynb (Used for troubleshooting purposes)
 
 MIT License
 
